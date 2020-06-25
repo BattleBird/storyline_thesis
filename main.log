@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2020.5.17)  18 JUN 2020 23:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2020.5.17)  25 JUN 2020 23:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -152,16 +152,22 @@ File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10> not available
 (Font)              Font shape `OMS/txsy/m/n' tried instead on input line 9.
- [1
+
+Overfull \hbox (4.11012pt too wide) in paragraph at lines 29--30
+\T1/txr/m/n/10 pop-u-lar Ethereum Vir-tual Ma-chines such as \T1/txr/bx/n/10 go
+-ethereum\T1/txr/m/n/10 , \T1/txr/bx/n/10 parity-ethereum
+ []
+
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-Overfull \hbox (2.83015pt too wide) in paragraph at lines 137--140
+Overfull \hbox (2.83015pt too wide) in paragraph at lines 138--141
 []\T1/txr/m/n/10 Considering the char-ac-ter-ics of control-flow, we de-signed 
 5 mu-ta-tors, whose
  []
 
 [4]
-Overfull \hbox (2.33012pt too wide) in paragraph at lines 178--179
+Overfull \hbox (2.33012pt too wide) in paragraph at lines 179--180
 []\T1/txr/m/n/10 EVMFuzzer di-rectly mu-tated smart con-tracts to dif-fer-en-ti
 ally test-ing EVMs.
  []
@@ -174,7 +180,7 @@ Here is how much of TeX's memory you used:
  4686 multiletter control sequences out of 15000+600000
  16820 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,4n,22p,720b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,4n,22p,720b,235s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</
 usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-
@@ -182,7 +188,7 @@ dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/
 utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (5 pages, 70140 bytes).
+Output written on main.pdf (5 pages, 70077 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
